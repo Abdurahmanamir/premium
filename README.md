@@ -5,8 +5,8 @@ Author :
     • Dapunta Khurayra X
   
 Team Project HEKER HEKER BIUTIPUL :
-    • Muhamad Rizal Fiansyah Id
-    • Angga Kurniawan
+    • AmirXploit
+    • CeWe_Gw
     • Yayan XD
     • Boy Hamzah
     • Latip Harkat
@@ -16,7 +16,7 @@ Team Project HEKER HEKER BIUTIPUL :
     • Iqbal Dev
     • Aap Afandi
     • Fallen
-    • MR_AmiR
+    • MR_AmiR[Acil]
 ```
 #### ⇨  Feature Login
 ```
@@ -43,12 +43,11 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf premium  
-$ git clone https://github.com/Dapunta/premium  
+$ git clone https://github.com/Abdurahmanamir/premiumv4  
 ```
 #### ⇨  Run Script
 ```
-$ cd premium  
-$ git pull  
+$ cd premium   
 $ python premium.py  
 ```
 #### ⇨  Information
