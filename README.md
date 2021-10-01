@@ -32,7 +32,7 @@ Team Project HEKER HEKER BIUTIPUL :
 [✯] Crack With TTL/DOB  
 [✯] Crack Default 4 Country + 1 None
 ```
-#### ⇨  Install Script On Termux
+#### ⇨  Install Script
 ```
 $ pkg update && upgrade  
 $ termux-setup-storage  
@@ -40,12 +40,9 @@ $ pkg install python
 $ pkg install git  
 $ pip install bs4  
 $ pip install requests  
-$ pip install mechanize  
-$ pip install futures  
-$ rm -rf premium  
+$ pip install mechanize    
+$ rm -rf premiumv4  
 $ git clone https://github.com/Abdurahmanamir/premiumv4  
-```
-#### ⇨  Run Script
 ```
 $ cd premium   
 $ python premium.py  
